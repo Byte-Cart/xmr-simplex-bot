@@ -1,0 +1,8 @@
+db/
+.venv/
+__pycache__/
+*.pyc
+xmr_bot_state.json
+*.tmp
+*.bak
+install.sh
